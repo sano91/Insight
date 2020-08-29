@@ -9,6 +9,7 @@ rithm is to inspect it manually.
 ### Purpose
 Hopefully and maybe, there is some setups, when we can find useful separations, and groupings in the result.
 # Scalers
+![alt text](https://i.imgur.com/zREei0h.png "Scalers")
 ### Standard Scaler
 The StandardScaler in scikit-learn ensures that for each
 feature the mean is 0 and the variance is 1, bringing all features to the same magni‐
