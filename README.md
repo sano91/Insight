@@ -18,8 +18,7 @@ tude. However, this scaling does not ensure any particular minimum and maximum
 values for the features.
 ### Min-Max Scaler
 The MinMaxScaler , on the other hand, shifts the data such that all features are exactly
-between 0 and 1. For the two-dimensional dataset this means all of the data is con‐
-tained within the rectangle created by the x-axis between 0 and 1 and the y-axis
+between 0 and 1. For the two-dimensional dataset this means all of the data is contained within the rectangle created by the x-axis between 0 and 1 and the y-axis
 between 0 and 1.
 ### Robust Scaler
 The RobustScaler works similarly to the StandardScaler in
