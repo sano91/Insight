@@ -9,6 +9,9 @@ rithm is to inspect it manually.
 ### Purpose
 Hopefully and maybe, there is some setups, when we can find useful separations, and groupings in the result.
 # Scalers
+Common practice is to adjust
+the features so that the data representation is more suitable for these algorithms.
+Often, this is a simple per-feature rescaling and shift of the data.
 ![alt text](https://i.imgur.com/zREei0h.png "Scalers")
 ### Standard Scaler
 The StandardScaler in scikit-learn ensures that for each
